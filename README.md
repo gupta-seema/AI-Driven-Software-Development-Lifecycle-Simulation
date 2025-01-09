@@ -34,6 +34,7 @@ This project simulates the software development lifecycle (SDLC) using AI agents
 
 1. Python 3.8 or higher.
 2. OpenAI API Key (replace the placeholder in the code with your actual key).
+OpenAI API Key (The OpenAI API key mentioned in the code is just an example. Please replace it with your own valid API key from OpenAI).
 3. Install the required Python libraries:
 
    ```bash
